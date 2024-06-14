@@ -1,1 +1,1 @@
-Demo of OAG flight info API (available at through rapidapi.com)
+Demo of OAG flight info API (available through rapidapi.com)
